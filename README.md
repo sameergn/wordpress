@@ -1,7 +1,7 @@
 # wordpress
 
 ```
-# One time setup
+# One time setup after cloning
 $ mkdir wp-content
 ```
 
